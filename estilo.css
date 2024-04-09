@@ -1,0 +1,203 @@
+/*General */
+html {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    body {
+        background: #ffffff;
+    }
+
+/* Index */
+
+h3 * {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    article { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #021024;
+    text-align: center;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    .video_index {
+        text-align: center; 
+    }
+    
+    .video_index video {
+        display: inline-block;
+        max-width: 50%;
+    }
+    
+    .Imagenpp {
+        max-width: 50%;
+        height: auto;
+        border-radius: 10px;
+    }
+    
+    .biografía
+    {
+        text-align: justify;
+        font-family: Arial, Helvetica, sans-serif; font-size: large;
+    }
+
+/* Sporting Lisboa */
+    .Sporting {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .parrafo_sl {
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: left;
+    }
+
+    .Imagen_cp {
+        max-width: 50%;
+        height: auto;
+        border-radius: 10px;
+    }
+    
+    .Imagen_sl{
+        text-align: center;
+    }
+
+    .video_sl {
+        text-align: center;
+    }
+    
+    .video_sl video {
+        display: inline-block; /* Permite centrar el video */
+        max-width: 50%; /* Ajusta el tamaño máximo del video */
+    }
+
+/* Manchester United */
+    .RonaldoManUnited{
+        max-width: 50%;
+        height: auto; 
+        border-radius: 10px;
+    }
+    .RonaldoMU {
+        text-align: center;
+    }
+
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        text-align: justify;
+    }
+
+    .ronaldo1manchester {
+        text-align: center;
+        border-radius: 40px;
+        overflow: hidden;
+    }
+    
+    .ronaldo1manchester video {
+        display: inline-block;
+        max-width: 50%;
+    }
+
+    .h2 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+    }
+
+/* Real Madrdi*/
+
+    .RonaldoRM {
+        text-align: center;
+    }
+    .Ronaldo_RM {
+        max-width: 50%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .VideoRm {
+        text-align: center;
+    }
+    .VideoRm video {
+        display: inline-block;
+        max-width: 50%;
+    }
+
+/*Juventus*/
+
+    .crjuve {
+        text-align: center;
+    }
+
+    .RonaldoJuve {
+        max-width: 50%;
+        height: auto;
+        border-radius: 15px;
+    }
+
+    .VideoJuve {
+        text-align: center;
+    }
+
+    .VideoJuve video {
+        display: inline-block;
+        max-width: 50%;
+    }
+
+/* 2da Etapa Manchester United */
+
+    .ManUni2 {
+        text-align: center;
+    }
+    .ManUni2 img {   
+        max-width: 50%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .VideoMan2 {
+        text-align: center;
+    }
+
+    .VideoMan2 video{
+        display: inline-block;
+        max-width : 50%;
+    }
+
+/* Al-Nassr*/
+
+    .ImgAN img {
+        max-width: 50%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .ImgAN {
+        text-align: center;
+    }
+
+    .videoAN {
+        text-align: center;
+    }
+
+    .videoAN video{
+        display: inline-block;
+        max-width: 50%;
+    }
+
+
+
+/* Footer */
+    .footer {
+    text-align: center;
+    color: #6e6e6e;
+    text-align: center;
+    /*Espaciado al rededor del footer */
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    }
